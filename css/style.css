@@ -10,5 +10,19 @@ p{
     height: 15vh;
 }
 #jumbo{
-    padding: 0px;
+    height: 70vh;
+    background-image: url(/img/thumbnail3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+#boldnumbers{
+    font-weight:bolder; 
+}
+.MOQUPS{
+    font-family: 'Oi', cursive;
+}
+i{
+    font-size: 3rem;
 }
