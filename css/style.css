@@ -26,3 +26,18 @@ p{
 i{
     font-size: 3rem;
 }
+@media (max-width: 1315px){
+    h5{
+        font-size: .80rem;
+    }
+}
+@media (max-width: 835px){
+    h5{
+        font-size: .5rem;
+    }
+}
+@media (max-width: 500px){
+    h5{
+        font-size: .31rem;
+    }
+}
